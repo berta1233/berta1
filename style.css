@@ -6,7 +6,7 @@
   }
 
   .container {
-      background: url(siyag.jpg);
+      background: 	#000000	0,0,0;
       height: 100vh;
       background-size: 1% 1000%;
   }
