@@ -1,0 +1,88 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+  * {
+      margin: 0;
+      padding: 0;
+  }
+
+  .container {
+      background: url(siyag.jpg);
+      height: 100vh;
+      background-size: 1% 1000%;
+  }
+
+  .container .navbar{
+      width: 100%;
+      height: 100xp;
+      background: rgba(50, 53, 50, 0.5);
+  }
+
+  .navbar .dwgames{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 45px;
+  }
+  
+
+  .navbar .dwgames a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: white;
+  }
+
+
+  .navbar ul {
+      float: right;
+      margin-right: 20px;
+  }
+
+  .navbar ul li {
+      list-style: none;
+      display: inline-block;
+      margin: 0 8px;
+      line-height: 80px;
+  }
+
+  .navbar ul li a {
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+      padding: 6px 13px;
+      transition: .5s;
+  }
+
+  .navbar ul li a.active,
+  .navbar ul li a:hover{
+    background-color: orange;
+    border-radius: 2px;
+  }
+
+  .container .center{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    transform: (-50%,-50%);
+    font-family: sans-serif;
+    color: white;
+    user-select: none;
+  }
+
+  .center h1{
+    color: rgb(39, 165, 60);
+    font-size: 70px;
+    font-weight: bold;
+    width: 800px;
+    text-align:left;
+  }
+
+  .cente2 h2{
+   color: rgb(133, 175, 33);
+   font-size: 45px;
+   font-weight: bold;
+   width: 885px;
+   margin-top: 10px;
+   text-align: right;
+   outline: none; 
+}
+
