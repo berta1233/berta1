@@ -9,6 +9,7 @@
       background: url(siyag.jpg);
       height: 100vh;
       background-size: 1% 1000%;
+      background-repeat: repeat;
   }
 
   .container .navbar{
