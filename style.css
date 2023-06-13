@@ -73,6 +73,7 @@
   font-weight: bold;
   width: 900px;
   text-align: center;
+  animation: glow 0.11s ease-in-out infinite alternate;
 }
 @keyframes glow{
   100%{
