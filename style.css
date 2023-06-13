@@ -36,6 +36,7 @@ margin-right: 2rem;
   display: inline-block;
   margin-left: 50px;
   margin-top: 20px;
+  border-radius: 100px;
 }
 
 .navbar ul{
@@ -48,6 +49,7 @@ margin-right: 2rem;
   font-size: 30px;
   font-family: sans-serif;
   color: aqua;
+  
 }
 
 .navbar ul li{
