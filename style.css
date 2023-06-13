@@ -78,28 +78,32 @@
 @keyframes glow{
   100%{
     text-shadow: 
-    0 0 4px wheat,
-    0 0 11px wheat,
-    0 0 19px wheat,
-    0 0 40px rgb(88, 178, 252),
-    0 0 80px rgb(88, 178, 252),
-    0 0 90px rgb(88, 178, 252),
-    0 0 100px rgb(88, 178, 252),
-    0 0 150px rgb(88, 178, 252);
+    0 0 4px white,
+    0 0 11px white,
+    0 0 19px white,
+    0 0 40px black,
+    0 0 80px black,
+    0 0 90px black,
+    0 0 100px black,
+    0 0 150px black;
   }
-
   0%{
     text-shadow: 
-    0 0 4px wheat,
-    0 0 10px wheat,
-    0 0 18px wheat,
-    0 0 38px rgb(88, 178, 252),
-    0 0 73px rgb(88, 178, 252),
-    0 0 80px rgb(88, 178, 252),
-    0 0 94px rgb(88, 178, 252),
-    0 0 140px rgb(88, 178, 252);
+    0 0 4px white,
+    0 0 10px white,
+    0 0 18px white,
+    0 0 38px black,
+    0 0 73px black,
+    0 0 80px black,
+    0 0 94px black,
+    0 0 1400px black;
   }
-}
+  }
+
+
+
+
+
 
 
 .center h3{
