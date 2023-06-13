@@ -2,11 +2,12 @@
   margin: 0;
   padding: 0;
 }
+
 .container {
   background: url(wp.webp);
-   height: 100vh;
-   background-size: 101% 100%;
-   background-repeat: repeat;
+  height: 100vh;
+  background-size: 101% 100%;
+  background-repeat: repeat;
 }
 
 
@@ -14,6 +15,20 @@
   width: 100%; 
   height: 85px;
   background: rgb(133, 124, 101);
+  justify-content: space-around;
+  box-shadow: 0 8px 8px 0 black;
+}
+
+.navbar #menuBtn{
+display: none;
+}
+
+.navbar .menuBtn{
+font-size: 2rem;
+color: white;
+float: right;
+line-height: none;
+margin-right: 2rem;
 }
 
 .navbar .ucretsizhesap{
@@ -25,8 +40,7 @@
 
 .navbar ul{
   float:right;
-  margin-right: 20px;
-  
+  margin-right: 20px; 
 }
 
 .navbar .ucretsizhesap a{
@@ -49,7 +63,7 @@
   font-size: 20px;
   padding: 6px 13px;
   font-family: Roboto;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 .navbar ul li a.active,
@@ -58,7 +72,7 @@
   border-radius: 100px;
 }
 
-.container .center {
+.container .center{
   position: absolute;
   top: 20%;
   left: 16%;
@@ -67,8 +81,8 @@
 }
 
 .center h1{
-  color: rgb(32, 60, 71);
-  font-family: Russo One;
+  color: rgb(0, 0, 0);
+  font-family: Russo One, sans-serif;
   font-size: 70px;
   font-weight: bold;
   width: 900px;
@@ -99,32 +113,98 @@
     0 0 1400px black;
   }
   }
+  .center h3{
+    backface-visibility: 10% 10;
+    color: rgb(45, 146, 20);
+    font-size: 23px;
+    font-weight: bold;
+    width: 900px;
+    text-align: center;
+  }
+  
+  .center a{
+    background-color: black;
+    text-decoration: none;
+    color: aqua;
+    border-radius: 30px;
+  }
+  
+  .center b{
+    color: rgb(46, 230, 46);
+    background-color: black;
+    text-decoration: none;
+    border-radius: 50px
+  }
+  @media (max-width:1050px){
 
+    .navbar .menuBtn{
+      display: initial;
+    }
+    .navbar ul{
+      position: fixed;
+      background: rgb(133, 124, 101);
+      width: 100%;
+      height: calc(100vh-80px);
+      top: 80px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      transition: all.5s;
+      left: -100%;
+    }
+    .navbar ul li{
+      display: block;
+      min-width: 80%;
+      text-align: center;
+      line-height: 5rem;
+    }
+    .navbar ul li a{
+      display: block;
+      font-size: 1.2rem;
+    }
+    .container .center {
+      position: absolute;
+      top: 20%;
+      left: 25%;
+      transform: translate(-10%-10%);
+      font-family: sans-serif;
+    }
+  
+    .center h1{
+      color: rgb(0, 0, 0);
+      font-family: Russo One, sans-serif;
+      font-size: 45px;
+      font-weight: bold;
+      width: 10px;
+      text-align:left ;
+      animation: glow 0.11s ease-in-out infinite alternate;
+    }
 
-
-
-
-
-
-.center h3{
-  backface-visibility: 10% 10;
-  color: rgb(45, 146, 20);
-  font-size: 23px;
-  font-weight: bold;
-  width: 900px;
-  text-align: center;
-}
-
-.center a{
-  background-color: black;
-  text-decoration: none;
-  color: aqua;
-  border-radius: 30px;
-}
-
-.center b{
-  color: rgb(46, 230, 46);
-  background-color: black;
-  text-decoration: none;
-  border-radius: 50px
-}
+  
+  .center h3{
+    backface-visibility: 10% 10;
+    color: rgb(45, 146, 20);
+    font-size: 22px;
+    font-weight: bold;
+    width: 90px;
+    text-align: center;
+  }
+    
+    .navbar #menuBtn:checked ~ ul{
+      left: 0;
+    }
+    .navbar #menuBtn:checked ~ label.menuBtn i::before{
+      content: "\f00d";
+    }
+    .navbar #menuBtn:checked ~ .container .center i::before{
+      display: none;
+    }
+    .navbar #menuBtn:checked ~ .center h1 i::before{
+      display: none;
+    }
+    .navbar #menuBtn:checked ~ .center h3 i::before{
+      display: none;
+    }
+  
+  }
