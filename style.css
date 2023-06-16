@@ -98,7 +98,26 @@ margin-right: 2rem;
  .ol li i{
   color: white;
  }
+ .ol3 {
+  text-align: center;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
 
+.ol3 li a{
+
+  font-size: 50px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  border-radius: 100px;
+}
+.ol3 li b{
+  font-size:20px;
+  text-decoration: none;
+  color: rgb(3, 177, 3);
+  background-color: black;
+  border-radius: 100px;
+}
 
 
  
