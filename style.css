@@ -17,6 +17,7 @@
   background: rgb(133, 124, 101);
   justify-content: space-around;
   box-shadow: 0 8px 8px 0 black;
+  border-radius: 100px;
 }
 
 .navbar #menuBtn{
@@ -36,7 +37,6 @@ margin-right: 2rem;
   display: inline-block;
   margin-left: 50px;
   margin-top: 20px;
-  border-radius: 1000px;
 }
 
 .navbar ul{
