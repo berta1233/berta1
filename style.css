@@ -185,14 +185,5 @@ margin-right: 2rem;
     .navbar #menuBtn:checked ~ label.menuBtn i::before{
       content: "\f00d";
     }
-    .navbar #menuBtn:checked ~ .container .center i::before{
-      display: none;
-    }
-    .navbar #menuBtn:checked ~ .center h1 i::before{
-      display: none;
-    }
-    .navbar #menuBtn:checked ~ .center h3 i::before{
-      display: none;
-    }
-  
+
   }
