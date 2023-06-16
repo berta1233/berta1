@@ -49,14 +49,14 @@ margin-right: 2rem;
   font-size: 30px;
   font-family: sans-serif;
   color: aqua;
-  
+  border-radius: 100px;
 }
 
 .navbar ul li{
   list-style: none;
   display: inline-block;
   margin: 0 8px;
-  line-height: 40px;
+  line-height: 80px;
 }
 
 .navbar ul li a{
