@@ -111,6 +111,30 @@ margin-right: 2rem;
   color: rgb(255, 255, 255);
   border-radius: 100px;
 }
+@keyframes glow{
+  100%{
+    text-shadow: 
+    0 0 4px white,
+    0 0 11px white,
+    0 0 19px white,
+    0 0 40px black,
+    0 0 80px black,
+    0 0 90px black,
+    0 0 100px black,
+    0 0 150px black;
+  }
+  0%{
+    text-shadow: 
+    0 0 4px white,
+    0 0 10px white,
+    0 0 18px white,
+    0 0 38px black,
+    0 0 73px black,
+    0 0 80px black,
+    0 0 94px black,
+    0 0 1400px black;
+  }
+  }
 .ol3 li b{
   font-size:20px;
   text-decoration: none;
