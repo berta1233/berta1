@@ -74,6 +74,34 @@ margin-right: 2rem;
   border-radius: 100px;
 }
 
+
+
+
+.ol{
+  text-align: center;
+  top: 20%;
+  left: 16%;
+}
+
+.ol li a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  border-radius: 100px;
+}
+.ol li b{
+  text-decoration: none;
+  color: rgb(3, 177, 3);
+  background-color: black;
+  border-radius: 100px;
+}
+ .ol li i{
+  color: white;
+ }
+
+
+
+ 
 .container .center{
   position: absolute;
   top: 20%;
