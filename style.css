@@ -29,7 +29,7 @@ font-size: 2rem;
 color: white;
 float: right;
 line-height: none;
-margin-right: 2rem;
+margin-right: 2.5rem;
 line-height: 80px;
 }
 
@@ -185,5 +185,6 @@ line-height: 80px;
     }
     .navbar #menuBtn:checked ~ label.menuBtn i::before{
       content: "\f00d";
+      border-radius: 100px;
     }
   }
