@@ -142,7 +142,7 @@ line-height: 80px;
     }
     .navbar ul{
       position: fixed;
-      background: rgb(133, 124, 101);
+      background:  rgb(54, 53, 53);
       width: 100%;
       height: calc(100vh-80px);
       top: 80px;
