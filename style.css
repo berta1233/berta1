@@ -15,7 +15,7 @@ body{
 
 .kutu {
   width: 300px;
-  height: 600px;
+  height: 90px;
   background-color: #303030;
   border: 1px solid #3d3d3d;
   border-radius: 5px;
@@ -268,7 +268,7 @@ line-height: 80px;
       margin-bottom: 20px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       margin-left: 1.5rem;
-      margin-top: 190px;
+      margin-top: 0px;
     }
     
     .kutu .baslik {
@@ -287,7 +287,7 @@ line-height: 80px;
     /** duyuru **/
     .kutu2 {
       width: 300px;
-      height: 85px;
+      height: 80px;
       background-color: #303030;
       border: 1px solid #3d3d3d;
       border-radius: 5px;
