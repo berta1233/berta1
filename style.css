@@ -223,4 +223,28 @@ line-height: 80px;
       content: "\f00d";
       border-radius: 100px;
     }
+
+    .kutu {
+      width: 300px;
+      height: 600px;
+      background-color: #303030;
+      border: 1px solid #3d3d3d;
+      border-radius: 5px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-left: 50px;
+      margin-top: 0px;
+    }
+    
+    .kutu .baslik {
+      text-align: center;
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: rgb(255, 6, 6);
+    }
+    
+    .kutu .icerik {
+      font-size: 14px;
   }
