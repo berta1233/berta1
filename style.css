@@ -145,19 +145,19 @@ line-height: 80px;
   left: 16%;
 }
 
-.ol  a{
+.ol li a{
   text-decoration: none;
   color: rgb(255, 255, 255);
   background-color: black;
   border-radius: 100px;
 }
-.ol b{
+.ol li b{
   text-decoration: none;
   color: rgb(255, 7, 7);
   background-color: black;
   border-radius: 100px;
 }
- .ol  i{
+ .ol li i{
   color: white;
  }
  .ol3 {
