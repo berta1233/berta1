@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
 *{
   margin: 0;
   padding: 0;
+  text-decoration: none;
 }
 
 body{
@@ -124,19 +128,20 @@ line-height: 80px;
 .navbar ul li a{
   color: white;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
   padding: 6px 13px;
-  font-family: Roboto;
+  font-family: 'Open Sans', sans-serif;  ;
   transition: 0.3s;
+  position: sticky;
+  top: 0%;
+  border-bottom: 0.2rem solid transparent; 
 }
 
 .navbar ul li a.active,
 .navbar ul li a:hover{
-  background-color: black;
-  border-radius: 100px;
+ border-color: black;
+ padding-bottom: 0.5rem;
 }
-
-
 
 
 
@@ -184,6 +189,16 @@ line-height: 80px;
   border-radius: 100px;
 }
 
+/** en alt kısım **/
+    .footer{
+      position: fixed;
+      left: 0px;
+      bottom: 0px;
+      width: 100%;
+      background-color: #303030; 
+      color: white;
+      text-align: center;
+    }
 
  
 
@@ -224,6 +239,15 @@ line-height: 80px;
     .navbar ul li a{
       display: block;
       font-size: 1.2rem;
+      color: white;
+      text-decoration: none;
+      font-size: 16px;
+      padding: 6px 13px;
+      font-family: 'Open Sans', sans-serif;  ;
+      transition: 0.3s;
+      position: sticky;
+      top: 0%;
+      border-bottom: 0.2rem solid transparent; 
     }
     .container .center {
       position: absolute;
@@ -286,6 +310,19 @@ line-height: 80px;
       font-size: 14px;
     }
     
+    /** en alt kısım **/
+    .footer{
+      position: fixed;
+      left: 0px;
+      bottom: 0px;
+      width: 100%;
+      background-color: #303030; 
+      color: white;
+    }
+
+
+   
+
 
     /** duyuru **/
     .kutu2 {
