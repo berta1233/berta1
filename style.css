@@ -200,6 +200,7 @@ line-height: 80px;
       display: initial;
     }
     .navbar ul{
+      border-radius: 35px;
       position: fixed;
       background:  rgb(54, 53, 53);
       width: 100%;
@@ -209,7 +210,7 @@ line-height: 80px;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      transition: all.5s;
+      transition: all.4s;
       left: -100%;
     }
     .navbar ul li{
