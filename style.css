@@ -265,6 +265,21 @@ line-height: 80px;
       transform: translate(-10%-10%);
       font-family: sans-serif;
     }
+
+    .navbar .ucretsizhesap a{
+      text-decoration: none;
+      font-size: 25px;
+      font-family: sans-serif;
+      color: rgb(255, 255, 255);
+      border-radius: 100px;
+    }
+  
+    
+  .navbar .ucretsizhesap{
+    display: inline-block;
+    margin-left: 36px;
+    margin-top: 23px;
+  }
   
     .center h1{
       color: rgb(0, 0, 0);
