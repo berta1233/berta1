@@ -377,4 +377,48 @@ line-height: 80px;
     .kutu2 .ol{
       color: white;
     }
+    .ol{
+      text-align: center;
+      top: 20%;
+      left: 16%;
+    }
+    
+    .ol li a{
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+      background-color: black;
+      border-radius: 100px;
+    }
+    .ol li b{
+      text-decoration: none;
+      color: rgb(255, 7, 7);
+      background-color: black;
+      border-radius: 100px;
+    }
+     .ol li i{
+      color: white;
+     }
+     .ol3 {
+      text-align: center;
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+    }
+    
+    .ol3 li a{
+    
+      font-size: 30px;
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+      border-radius: 100px;
+    }
+    
+    .ol3 li b{
+      font-size:15px;
+      text-decoration: none;
+      color: rgb(255, 7, 7);
+      background-color: black;
+      border-radius: 100px;
+    }
+    
+    
   }
