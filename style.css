@@ -309,7 +309,7 @@ line-height: 80px;
       content: "\f00d";
       border-radius: 100px;
     }
-    
+
     .kutu {
       width: 350px;
       height: 300px;
@@ -319,7 +319,7 @@ line-height: 80px;
       padding: 5px;
       margin-bottom: 20px;
       box-shadow: 10 10px 5px white;
-      margin-left: 1px;
+      margin-left: 0.9px;
       margin-top: 25px;
       box-shadow: 0 1px 12px 0 white;
     }
