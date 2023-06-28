@@ -586,7 +586,7 @@ line-height: 80px;
       box-shadow: 10 10px 5px white;
       margin-left: 1rem;
       margin-top: 25px;
-      box-shadow: 0 1px 12px 0 white;
+      box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
     }
     
     .kutu .baslik {
