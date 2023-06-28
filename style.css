@@ -449,12 +449,12 @@ line-height: 80px;
 }
 
 .ol3 li a{
-
+  text-shadow: 1px 1px 3px white,0 1px wheat, 2px 2px 2px white;
   font-size: 50px;
   text-decoration: none;
-  color: rgb(255, 255, 255);
-  border-radius: 100px;
+  color: rgb(0, 0, 0);
 }
+
 
 .ol3 li b{
   font-size:20px;
