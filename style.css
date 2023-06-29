@@ -117,7 +117,7 @@ body{
   }
 
 
- /** MAĞAZA**/
+/** MAĞAZA**/
 .kutu3 {
   width: 300px;
   height: 300px;
@@ -129,6 +129,7 @@ body{
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-left: 50px;
   margin-top: 50px;
+  box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
 }
 
 .kutu3 .baslik {
@@ -150,7 +151,12 @@ body{
 
 .kutu3 .ol h1{
   color: blue;
+  text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(0, 0, 0);
 } 
+
+.kutu3 .ol h4{
+  text-shadow: 1px 1px 3px rgb(107, 101, 101),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(110, 107, 107);
+}
 
 /* kutu4 */
 
@@ -165,6 +171,7 @@ body{
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-left: 500px;
   margin-top: -360px;
+  box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
 }
 
 .kutu4 .baslik {
@@ -186,12 +193,15 @@ body{
 
 .kutu4 .ol h1{
   color: rgb(184, 17, 17);
+  text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(0, 0, 0);
 } 
 
 .kutu4 .ol .a{
   background-color: red;
 }
-
+.kutu4 .ol h4{
+  text-shadow: 1px 1px 3px rgb(107, 101, 101),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(110, 107, 107);
+}
 
 /*kutu5*/
 
@@ -206,6 +216,7 @@ body{
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-left: +930px;
   margin-top: -360px;
+  box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
 }
 
 .kutu5 .baslik {
@@ -232,7 +243,12 @@ body{
 
 .kutu5 .ol h1{
   color: rgb(0, 89, 255);
+  text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(0, 0, 0);
 } 
+
+.kutu5 .ol h4{
+  text-shadow: 1px 1px 3px rgb(107, 101, 101),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(110, 107, 107);
+}
 
 /*kutu6*/
 
@@ -247,6 +263,7 @@ body{
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-left: 55px;
   margin-top: +100px;
+  box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
 }
 
 .kutu6 .baslik {
@@ -271,8 +288,12 @@ body{
 
 .kutu6 .ol h1{
   color: rgb(189, 23, 23);
+  text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(0, 0, 0);
 } 
 
+.kutu6 .ol h4{
+  text-shadow: 1px 1px 3px rgb(107, 101, 101),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(110, 107, 107);
+}
 
 /*kutu7*/
 
@@ -287,6 +308,7 @@ body{
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-left: 500px;
   margin-top: -350px;
+  box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
 }
 
 .kutu7 .baslik {
@@ -310,8 +332,12 @@ body{
 
 .kutu7 .ol h1{
   color: rgb(255, 202, 30);
+  text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(0, 0, 0);
 } 
 
+.kutu7 .ol h4{
+  text-shadow: 1px 1px 3px rgb(107, 101, 101),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(110, 107, 107);
+}
 
 /*kutu8*/
 
@@ -326,6 +352,7 @@ body{
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-left: +930px;
   margin-top: -310px;
+  box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
 }
 
 .kutu8 .baslik{
@@ -349,7 +376,12 @@ body{
 
 .kutu8 .ol h1{
   color: rgb(25, 162, 167);
+  text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(0, 0, 0);
 } 
+
+.kutu8 .ol h4{
+  text-shadow: 1px 1px 3px rgb(107, 101, 101),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(110, 107, 107);
+}
 
 
 /*mağzaBİTİŞ*/
@@ -702,6 +734,7 @@ line-height: 80px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       margin-left: 35px;
       margin-top: 50px;
+      box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
     }
     
     .kutu3 .baslik {
@@ -722,8 +755,10 @@ line-height: 80px;
     }
     
     .kutu3 .ol h1{
-      color: blue;
+      color: rgb(0, 0, 255);
     } 
+    
+      
     
     /* kutu4 */
     
@@ -738,6 +773,7 @@ line-height: 80px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       margin-left: 35px;
       margin-top: 50px;
+      box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
     }
     
     .kutu4 .baslik {
@@ -779,6 +815,7 @@ line-height: 80px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       margin-left: 35px;
       margin-top: 50px;
+      box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
     }
     
     .kutu5 .baslik {
@@ -817,6 +854,7 @@ line-height: 80px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       margin-left: 35px;
       margin-top: 50px;
+      box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
     }
     
     .kutu6 .baslik {
@@ -856,6 +894,7 @@ line-height: 80px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       margin-left: 35px;
       margin-top: 50px;
+      box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
     }
     
     .kutu7 .baslik {
@@ -895,6 +934,7 @@ line-height: 80px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       margin-left: 35px;
       margin-top: 50px;
+      box-shadow:2px 2px 3px 0px rgb(255, 255, 255),-2px -2px 3px 0 rgb(10, 235, 197) ;
     }
     
     .kutu8 .baslik{
@@ -921,7 +961,8 @@ line-height: 80px;
     } 
     
     
-    /*mağzaBİTİŞ*/ 
+    /*mağzaBİTİŞ*/
+     
     
   }
 
