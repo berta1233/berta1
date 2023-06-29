@@ -690,239 +690,238 @@ line-height: 80px;
       border-radius: 100px;
     }
     
-        /** MAĞAZA**/
-.kutu3 {
-  width: 300px;
-  height: 300px;
-  background-color: #303030;
-  border: 1px solid #3d3d3d;
-  border-radius: 5px;
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 35px;
-  margin-top: 50px;
-}
-
-.kutu3 .baslik {
-  padding: -1%;
-  text-align: center;
-  font-size: 10px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  color: rgb(255, 6, 6);
-}
-
-.kutu3 .icerik {
-  font-size: 14px;
-}
-
-.kutu3 .ol{
-  color: white;
-}
-
-.kutu3 .ol h1{
-  color: blue;
-} 
-
-/* kutu4 */
-
-.kutu4 {
-  width: 300px;
-  height: 300px;
-  background-color: #303030;
-  border: 1px solid #3d3d3d;
-  border-radius: 5px;
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 35px;
-  margin-top: 50px;
-}
-
-.kutu4 .baslik {
-  padding: -1%;
-  text-align: center;
-  font-size: 10px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  color: rgb(255, 6, 6);
-}
-
-.kutu4 .icerik {
-  font-size: 14px;
-}
-
-.kutu4 .ol{
-  color: white;
-}
-
-.kutu4 .ol h1{
-  color: rgb(184, 17, 17);
-} 
-
-.kutu4 .ol .a{
-  background-color: red;
-}
-
-
-/*kutu5*/
-
-.kutu5 {
-  width: 300px;
-  height: 150px;
-  background-color: #303030;
-  border: 1px solid #3d3d3d;
-  border-radius: 5px;
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 35px;
-  margin-top: 50px;
-}
-
-.kutu5 .baslik {
-  max-width: 1px;
-  height: -10%;
-  padding: -100%;
-  text-align: center;
-  font-size: 1px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  color: rgb(55, 0, 255);
-}
-
-.kutu5 .icerik {
-  font-size: 14px;
-}
-
-.kutu5 .ol{
-  color: white;
-}
-
-.kutu5 .ol h1{
-  color: rgb(0, 89, 255);
-} 
-
-/*kutu6*/
-
-.kutu6 {
-  width: 300px;
-  height: 400px;
-  background-color: #303030;
-  border: 1px solid #3d3d3d;
-  border-radius: 5px;
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 35px;
-  margin-top: 50px;
-}
-
-.kutu6 .baslik {
-  max-width: 1px;
-  height: -10%;
-  padding: -100%;
-  text-align: center;
-  font-size: 1px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  color: rgb(150, 23, 23);
-}
-
-.kutu6 .icerik {
-  font-size: 14px;
-}
-
-.kutu6 .ol{
-  color: white;
-}
-
-.kutu6 .ol h1{
-  color: rgb(189, 23, 23);
-} 
-
-
-/*kutu7*/
-
-.kutu7 {
-  width: 300px;
-  height: 250px;
-  background-color: #303030;
-  border: 1px solid #3d3d3d;
-  border-radius: 5px;
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 35px;
-  margin-top: 50px;
-}
-
-.kutu7 .baslik {
-  max-width: 1px;
-  height: -10%;
-  padding: -100%;
-  text-align: center;
-  font-size: 1px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  color: rgb(55, 0, 255);
-}
-
-.kutu7 .icerik {
-  font-size: 14px;
-}
-
-.kutu7 .ol{
-  color: white;
-}
-
-.kutu7 .ol h1{
-  color: rgb(255, 202, 30);
-} 
-
-
-/*kutu8*/
-
-.kutu8 {
-  width: 300px;
-  height: 290px;
-  background-color: #303030;
-  border: 1px solid #3d3d3d;
-  border-radius: 5px;
-  padding: 10px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 35px;
-  margin-top: 50px;
-}
-
-.kutu8 .baslik{
-  max-width: 1px;
-  height: -10%;
-  padding: -100%;
-  text-align: center;
-  font-size: 1px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  color: rgb(55, 0, 255);
-}
-
-.kutu8 .icerik {
-  font-size: 14px;
-}
-
-.kutu8 .ol{
-  color: white;
-}
-
-.kutu8 .ol h1{
-  color: rgb(25, 162, 167);
-} 
-
-
-/*mağzaBİTİŞ*/
-
+    /** MAĞAZA**/
+    .kutu3 {
+      width: 300px;
+      height: 300px;
+      background-color: #303030;
+      border: 1px solid #3d3d3d;
+      border-radius: 5px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-left: 35px;
+      margin-top: 50px;
+    }
+    
+    .kutu3 .baslik {
+      padding: -1%;
+      text-align: center;
+      font-size: 10px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: rgb(255, 6, 6);
+    }
+    
+    .kutu3 .icerik {
+      font-size: 14px;
+    }
+    
+    .kutu3 .ol{
+      color: white;
+    }
+    
+    .kutu3 .ol h1{
+      color: blue;
+    } 
+    
+    /* kutu4 */
+    
+    .kutu4 {
+      width: 300px;
+      height: 300px;
+      background-color: #303030;
+      border: 1px solid #3d3d3d;
+      border-radius: 5px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-left: 35px;
+      margin-top: 50px;
+    }
+    
+    .kutu4 .baslik {
+      padding: -1%;
+      text-align: center;
+      font-size: 10px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: rgb(255, 6, 6);
+    }
+    
+    .kutu4 .icerik {
+      font-size: 14px;
+    }
+    
+    .kutu4 .ol{
+      color: white;
+    }
+    
+    .kutu4 .ol h1{
+      color: rgb(184, 17, 17);
+    } 
+    
+    .kutu4 .ol .a{
+      background-color: red;
+    }
+    
+    
+    /*kutu5*/
+    
+    .kutu5 {
+      width: 300px;
+      height: 300px;
+      background-color: #303030;
+      border: 1px solid #3d3d3d;
+      border-radius: 5px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-left: 35px;
+      margin-top: 50px;
+    }
+    
+    .kutu5 .baslik {
+      max-width: 1px;
+      height: -10%;
+      padding: -100%;
+      text-align: center;
+      font-size: 1px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: rgb(55, 0, 255);
+    }
+    
+    .kutu5 .icerik {
+      font-size: 14px;
+    }
+    
+    .kutu5 .ol{
+      color: white;
+    }
+    
+    .kutu5 .ol h1{
+      color: rgb(0, 89, 255);
+    } 
+    
+    /*kutu6*/
+    
+    .kutu6 {
+      width: 300px;
+      height: 250px;
+      background-color: #303030;
+      border: 1px solid #3d3d3d;
+      border-radius: 5px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-left: 35px;
+      margin-top: 50px;
+    }
+    
+    .kutu6 .baslik {
+      max-width: 1px;
+      height: -10%;
+      padding: -100%;
+      text-align: center;
+      font-size: 1px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: rgb(150, 23, 23);
+    }
+    
+    .kutu6 .icerik {
+      font-size: 14px;
+    }
+    
+    .kutu6 .ol{
+      color: white;
+    }
+    
+    .kutu6 .ol h1{
+      color: rgb(189, 23, 23);
+    } 
+    
+    
+    /*kutu7*/
+    
+    .kutu7 {
+      width: 300px;
+      height: 250px;
+      background-color: #303030;
+      border: 1px solid #3d3d3d;
+      border-radius: 5px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-left: 35px;
+      margin-top: 50px;
+    }
+    
+    .kutu7 .baslik {
+      max-width: 1px;
+      height: -10%;
+      padding: -100%;
+      text-align: center;
+      font-size: 1px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: rgb(55, 0, 255);
+    }
+    
+    .kutu7 .icerik {
+      font-size: 14px;
+    }
+    
+    .kutu7 .ol{
+      color: white;
+    }
+    
+    .kutu7 .ol h1{
+      color: rgb(255, 202, 30);
+    } 
+    
+    
+    /*kutu8*/
+    
+    .kutu8 {
+      width: 300px;
+      height: 280px;
+      background-color: #303030;
+      border: 1px solid #3d3d3d;
+      border-radius: 5px;
+      padding: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      margin-left: 35px;
+      margin-top: 50px;
+    }
+    
+    .kutu8 .baslik{
+      max-width: 1px;
+      height: -10%;
+      padding: -100%;
+      text-align: center;
+      font-size: 1px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: rgb(55, 0, 255);
+    }
+    
+    .kutu8 .icerik {
+      font-size: 14px;
+    }
+    
+    .kutu8 .ol{
+      color: white;
+    }
+    
+    .kutu8 .ol h1{
+      color: rgb(25, 162, 167);
+    } 
+    
+    
+    /*mağzaBİTİŞ*/
     
   }
 
