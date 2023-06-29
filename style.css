@@ -117,7 +117,7 @@ body{
   }
 
 
-  /** MAĞAZA**/
+ /** MAĞAZA**/
 .kutu3 {
   width: 300px;
   height: 300px;
@@ -127,7 +127,7 @@ body{
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 500px;
+  margin-left: 50px;
   margin-top: 50px;
 }
 
@@ -164,7 +164,7 @@ body{
   margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-left: 500px;
-  margin-top: 50px;
+  margin-top: -360px;
 }
 
 .kutu4 .baslik {
@@ -197,34 +197,37 @@ body{
 
 .kutu5 {
   width: 300px;
-  height: 150px;
+  height:300px;
   background-color: #303030;
   border: 1px solid #3d3d3d;
   border-radius: 5px;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 500px;
-  margin-top: 50px;
+  margin-left: +930px;
+  margin-top: -360px;
 }
 
 .kutu5 .baslik {
   max-width: 1px;
   height: -10%;
-  padding: -100%;
+  padding: -10%;
   text-align: center;
   font-size: 1px;
   font-weight: bold;
   margin-bottom: 10px;
   color: rgb(55, 0, 255);
+  margin-left: 50px;
+  margin-top: -10px;
 }
 
 .kutu5 .icerik {
-  font-size: 14px;
+  font-size: 4px;
 }
 
 .kutu5 .ol{
   color: white;
+  text-shadow: black;
 }
 
 .kutu5 .ol h1{
@@ -235,15 +238,15 @@ body{
 
 .kutu6 {
   width: 300px;
-  height: 400px;
+  height: 220px;
   background-color: #303030;
   border: 1px solid #3d3d3d;
   border-radius: 5px;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 500px;
-  margin-top: 50px;
+  margin-left: 55px;
+  margin-top: +100px;
 }
 
 .kutu6 .baslik {
@@ -253,6 +256,7 @@ body{
   text-align: center;
   font-size: 1px;
   font-weight: bold;
+  margin-left: 40px;
   margin-bottom: 10px;
   color: rgb(150, 23, 23);
 }
@@ -282,7 +286,7 @@ body{
   margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin-left: 500px;
-  margin-top: 50px;
+  margin-top: -350px;
 }
 
 .kutu7 .baslik {
@@ -320,8 +324,8 @@ body{
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-left: 500px;
-  margin-top: 50px;
+  margin-left: +930px;
+  margin-top: -310px;
 }
 
 .kutu8 .baslik{
