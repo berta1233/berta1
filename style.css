@@ -37,12 +37,15 @@ body{
 
 
 .bas .u{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
   margin-top: 1rem;
   margin-left:2rem;
   font-weight: bold;
  }
 
  .bas .u2{
+  text-align: center;
   margin-left:2rem;
   font-family: 'Bebas Neue', sans-serif;
  }
@@ -81,12 +84,15 @@ body{
 
  .bas3 .u2{
   font-weight: bold;
+  font-family: inherit;
   margin-left:18rem;
   margin-top: -14%;
  }
 
  .bas3 .u3{
+  color: rgba(0, 0, 0, 0.719);
   margin-left:18rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -96,6 +102,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -126,6 +134,7 @@ body{
  }
 
  .bas4 .u2{
+  font-family: inherit;
   font-weight: bold;
   margin-left:20rem;
   margin-top: -13%;
@@ -133,15 +142,19 @@ body{
 
  .bas4 .u3{
   margin-left:20rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
  .bas4 .u3 a{
   box-shadow: 0px 1px black,2px 1px black;
   font-size: 20px;
-  color: rgb(0, 0, 0);
+  color: rgba(0, 0, 0, 0.719);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -176,6 +189,7 @@ body{
  }
 
  .bas5 .u2{
+  font-family: inherit;
   font-weight: bold;
   margin-left:20rem;
   margin-top: -10%;
@@ -183,6 +197,8 @@ body{
 
  .bas5 .u3{
   margin-left:20rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -192,6 +208,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -223,6 +241,7 @@ body{
  }
 
  .bas6 .u2{
+  font-family: inherit;
   font-weight: bold;
   margin-left:20rem;
   margin-top: -10%;
@@ -230,6 +249,8 @@ body{
 
  .bas6 .u3{
   margin-left:20rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -239,6 +260,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -269,6 +292,7 @@ body{
  }
 
  .bas7 .u2{
+  font-family: inherit;
   font-weight: bold;
   margin-left:24rem;
   margin-top: -10%;
@@ -276,6 +300,8 @@ body{
 
  .bas7 .u3{
   margin-left:24rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -285,6 +311,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -314,6 +342,7 @@ body{
  }
 
  .bas8 .u2{
+  font-family: inherit;
   font-weight: bold;
   margin-left:24rem;
   margin-top: -15%;
@@ -321,6 +350,8 @@ body{
 
  .bas8 .u3{
   margin-left:24rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -330,6 +361,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -360,6 +393,7 @@ body{
  }
 
  .bas9 .u2{
+  font-family: inherit;
   font-weight: bold;
   margin-left:24rem;
   margin-top: -15%;
@@ -367,6 +401,8 @@ body{
 
  .bas9 .u3{
   margin-left:24rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -376,6 +412,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -408,6 +446,7 @@ body{
  }
 
  .bas10 .u2{
+  font-family: inherit;
   font-weight: bold;
   margin-left:24rem;
   margin-top: -10%;
@@ -415,6 +454,8 @@ body{
 
  .bas10 .u3{
   margin-left:24rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -424,6 +465,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -454,6 +497,7 @@ body{
  }
 
  .bas11 .u2{
+  font-family: inherit;
   font-weight: bold;
   margin-left:24rem;
   margin-top: -15%;
@@ -461,6 +505,8 @@ body{
 
  .bas11 .u3{
   margin-left:24rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -470,6 +516,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -500,12 +548,15 @@ body{
 
  .bas12 .u2{
   font-weight: bold;
+  font-family: inherit;
   margin-left:24rem;
   margin-top: -15%;
  }
 
  .bas12 .u3{
   margin-left:24rem;
+  color: rgba(0, 0, 0, 0.719);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  }
 
 
@@ -515,6 +566,8 @@ body{
   color: rgb(0, 0, 0);
   background-color: rgb(0, 217, 255);
   line-height: 40px;
+  font-family: cursive;
+  border-radius: 5px;
  }
 
 
@@ -545,12 +598,15 @@ body{
   
    .bas13 .u2{
     font-weight: bold;
+    font-family: inherit;
     margin-left:24rem;
     margin-top: -15%;
    }
   
    .bas13 .u3{
     margin-left:24rem;
+    color: rgba(0, 0, 0, 0.719);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    }
   
   
@@ -560,6 +616,8 @@ body{
     color: rgb(0, 0, 0);
     background-color: rgb(0, 217, 255);
     line-height: 40px;
+    font-family: cursive;
+    border-radius: 5px;
    }
 
 
@@ -932,10 +990,9 @@ box-shadow:2px 2px 3px 0px rgb(0, 0, 0),-2px -2px 3px 0 rgb(202, 197, 197) ;
 .container .navbar{
   width: 100%; 
   height: 85px;
-  background: rgb(54, 53, 53);
+  background: rgba(54, 53, 53, 0.918);
   justify-content: space-around;
   box-shadow: 0 1px 16px 0 rgb(167, 164, 164);
-  border-radius: 100px;
 }
 
 .navbar #menuBtn{
@@ -944,7 +1001,7 @@ display: none;
 
 .navbar .menuBtn{
 font-size: 2rem;
-color: white;
+color: rgb(235, 235, 235);
 float: right;
 line-height: none;
 margin-right: 2.5rem;
@@ -969,7 +1026,7 @@ line-height: 80px;
   font-size: 23px;
   font-family: sans-serif;
   color: rgb(255, 255, 255);
-  border-radius: 100px;
+  border-radius: 50px;
 }
 
 .navbar ul li{
@@ -980,7 +1037,7 @@ line-height: 80px;
 }
 
 .navbar ul li a{
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
   font-size: 16px;
   padding: 6px 13px;
@@ -1054,19 +1111,19 @@ line-height: 80px;
     }
 
  
-    /** MEDİA */
+        /** MEDİA */
 
   @media (max-width:1050px){
 
     .container .navbar{
       width: 100%; 
       height: 85px;
-      background: rgb(54, 53, 53);
+      background: rgba(54, 53, 53, 0.89);
       justify-content: space-around;
       box-shadow: 0 1px 16px 0 white;
-      border-radius: 100px;
-
     }
+
+
 
     .navbar .menuBtn{
       display: initial;
