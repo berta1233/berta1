@@ -2090,7 +2090,7 @@ table{
 }
 
 table tr th {
-  height: 10vh;
+  height: 7vh;
   background-color: #00ffddfa;
   color: rgb(255, 255, 255);
   text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(77, 74, 70), 2px 2px 2px rgb(0, 0, 0);
