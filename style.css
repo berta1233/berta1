@@ -637,10 +637,10 @@ table,th,td{
   border: 1px solid rgba(0, 0, 0, 0.301);
 } 
 
-table{
+table {
   background-color:  #ffffff;
   margin-left: 80px;
-  margin-top: 100px;
+  margin-top: -635px;
   width: 90%;
   border-collapse: collapse;
   box-shadow:2px 2px 3px 0px rgb(0, 155, 46),-2px -2px 3px 0 rgb(10, 235, 197) ;
@@ -685,9 +685,18 @@ table tr td l{
   color: rgb(0, 0, 0);
 }
 
+
+
+table .sd{
+  background-color: white;
+}
+
+
+
 /*disney*/
 
 .aciklama{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 text-align: center;
 width: 1200px;
 height: 200px;
@@ -702,14 +711,52 @@ margin-top: 50px;
 box-shadow:2px 2px 3px 0px rgb(0, 0, 0),-2px -2px 3px 0 rgb(202, 197, 197) ;
 }
 
+.aciklama h1{
+  color: #141414;
+  text-shadow: 1px 1px 3px rgb(255, 255, 255),0 1px rgb(0, 0, 0), 2px 2px 2px rgb(0, 0, 0);
+}
+
 
 
 .aciklama .ac{
+  text-shadow: 1px 1px 3px rgb(255, 255, 255),0 1px rgb(255, 255, 255), 2px 2px 2px rgb(160, 160, 160);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   line-height: 20px;
   text-align: center;
 }
 
 
+
+.aciklama2{
+  text-align: center;
+  width: 1200px;
+  height: 350px;
+  background-color: #fafafa;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-left: 50px;
+  margin-top: 220px;
+  box-shadow:2px 2px 3px 0px rgb(0, 0, 0),-2px -2px 3px 0 rgb(202, 197, 197) ;
+  }
+  
+.aciklama2 h1{
+  color: #141414;
+  text-shadow: 1px 1px 3px rgb(255, 255, 255),0 1px rgb(0, 0, 0), 2px 2px 2px rgb(0, 0, 0);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+  
+  
+
+div .ac2{
+  
+  text-shadow: 1px 1px 3px rgb(255, 255, 255),0 1px rgb(255, 255, 255), 2px 2px 2px rgb(160, 160, 160);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  line-height: 15px;
+  
+}
 
 
 
@@ -1022,6 +1069,8 @@ line-height: 80px;
 
 
 .navbar .ucretsizhesap a{
+  text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(97, 96, 96), 2px 2px 2px white;
+  font-weight: bold;
   text-decoration: none;
   font-size: 23px;
   font-family: sans-serif;
@@ -1037,6 +1086,7 @@ line-height: 80px;
 }
 
 .navbar ul li a{
+  text-shadow: 1px 1px 3px rgb(0, 0, 0),0 1px rgb(97, 96, 96), 2px 2px 2px rgb(104, 100, 100);
   color: rgb(255, 255, 255);
   text-decoration: none;
   font-size: 16px;
@@ -2141,7 +2191,7 @@ table{
   height: 480px;
   background-color:  #ffffff;
   margin-left: 5px;
-  margin-top: 15px;
+  margin-top: -90rem;
   border-collapse: collapse;
   box-shadow:2px 2px 3px 0px rgb(0, 155, 46),-2px -2px 3px 0 rgb(10, 235, 197) ;
 }
@@ -2210,6 +2260,38 @@ box-shadow:2px 2px 3px 0px rgb(0, 0, 0),-2px -2px 3px 0 rgb(202, 197, 197) ;
 }
 
 
+
+
+.aciklama2{
+  text-align: center;
+  width: 350px;
+  height:850px;
+  background-color: #fafafa;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-left: 10px;
+  margin-top: 550px;
+  box-shadow:2px 2px 3px 0px rgb(0, 0, 0),-2px -2px 3px 0 rgb(202, 197, 197) ;
+  }
+  
+.aciklama2 h1{
+  color: #141414;
+  text-shadow: 1px 1px 3px rgb(255, 255, 255),0 1px rgb(0, 0, 0), 2px 2px 2px rgb(0, 0, 0);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+  
+  
+
+div .ac2{
+  
+  text-shadow: 1px 1px 3px rgb(255, 255, 255),0 1px rgb(255, 255, 255), 2px 2px 2px rgb(160, 160, 160);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  line-height: 15px;
+  
+}
 
 
 
