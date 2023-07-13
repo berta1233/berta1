@@ -2227,16 +2227,13 @@ table tr td c{
 
 
 
-
 table tr td d{
   margin-left: 20%;
   color: rgb(0, 0, 0);
 }
 
-table tr td a{
+table tr td .a{
   margin-left: 18%;
-  color: rgb(0, 0, 0);
-  background-color: aqua;
 }
 
 table tr td l{
@@ -2246,20 +2243,7 @@ table tr td l{
 
 /*disney*/
 
-.aciklama{
-text-align: center;
-width: 350px;
-height: 480px;
-background-color: #fafafa;
-border: 1px solid #ffffff;
-border-radius: 5px;
-padding: 20px;
-margin-bottom: 20px;
-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-margin-left: 0px;
-margin-top: 50px;
-box-shadow:2px 2px 3px 0px rgb(0, 0, 0),-2px -2px 3px 0 rgb(202, 197, 197) ;
-}
+
 
 
 
@@ -2303,8 +2287,34 @@ div .ac2{
 }
 
 
-
-
-
+.aciklama{
+  text-align: center;
+  width: 350px;
+  height: 480px;
+  background-color: #fafafa;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-left: 0px;
+  margin-top: 50px;
+  box-shadow:2px 2px 3px 0px rgb(0, 0, 0),-2px -2px 3px 0 rgb(202, 197, 197) ;
+  }
+  
+  
+  
+  .aciklama .ac{
+    line-height: 20px;
+    text-align: center;
+  }
+  
+  
+  
+  
 
   }
+
+
+
+  
